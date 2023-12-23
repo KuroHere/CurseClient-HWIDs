@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/aria-math.ogg
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/axolotl.ogg
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/cant-slow-me-down.ogg
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/gravity-falls.ogg
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/heathens.ogg
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/tiredofproblems.ogg
