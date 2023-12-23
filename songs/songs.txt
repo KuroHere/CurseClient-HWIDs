@@ -1,6 +1,6 @@
-https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/aria-math.ogg
-https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/axolotl.ogg
-https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/cant-slow-me-down.ogg
-https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/gravity-falls.ogg
-https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/heathens.ogg
-https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/tiredofproblems.ogg
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/aria-math
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/axolotl
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/cant-slow-me-down
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/gravity-falls
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/heathens
+https://raw.githubusercontent.com/KuroHere/CurseClient-HWIDs/main/songs/tiredofproblems
